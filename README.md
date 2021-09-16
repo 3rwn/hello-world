@@ -1,3 +1,3 @@
 # hello-world
 premiers pas sur Github
-découvere du site 
+découverte du site 
